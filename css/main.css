@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .card {
+    flex:25%;
+    height: 80%;
+    width: 100%;
+
+  }
+
+  .card-img-top {
+    height: 100px;
+    
+  }
